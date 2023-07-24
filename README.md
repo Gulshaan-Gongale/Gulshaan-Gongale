@@ -1,6 +1,6 @@
                                                           Hi, 👋 I’m Gulshan
 
-welcome to my profile! i'm student and currently i'm learning Data science. i have done B.tech in civil engineering and transitioning my career into data scinece, Machine Learning Deep Lesrning realm and have huge in interest in dats. as a fast Learner i wanna learn more about data science. I would like to know life experiece and polish my skills. 
+welcome to my profile! i'm student and currently i'm learning Data science. i have done B.tech in civil engineering and transitioning my career into data scinece, Machine Learning Deep Learning realm and have huge in interest in data. as a fast Learner i wanna learn more about data science. I would like to know life experiece and polish my skills. 
 
 
 Currently, I'm open to opportunities in roles such as Data Analyst, Data scientist Trainee, SQL developer
