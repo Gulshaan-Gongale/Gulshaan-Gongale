@@ -1,10 +1,11 @@
                                                           Hi, 👋 I’m Gulshan
 
-welcome to my profile! i'm student and currently i'm learning Data science. i have done B.tech in civil engineering and transitioning my career into data scinece, Machine Learning Deep Learning realm and have huge in interest in data. as a fast Learner i wanna learn more about data science. I would like to know life experiece and polish my skills. 
+I am a data science enthusiast with a background in civil engineering. I am passionate about using data to solve real-world problems and make a positive impact on the world. I am a fast learner and have a strong aptitude for mathematics and programming. I am also a highly motivated and results-oriented individual.
+I am now transitioning my career into data science to leverage my skills and experience to make a greater impact.
+I am currently taking data science coachings and watching tutorials from YouTube. I am also working on personal projects to gain hands-on experience. I am eager to learn more about data science and to apply my skills in a real-world problems.
+I am open to opportunities in roles such as data analyst, data scientist trainee, or research associate. I am confident that I have the skills and experience to be successful in these roles.
+🚀 #DataScience #MachineLearning #LifeLongLearner"II
 
-
-Currently, I'm open to opportunities in roles such as Data Analyst, Data scientist Trainee, SQL developer
-  
 - 📫 How to reach me: gulshaangongale97@gmail.com
 - 📄 Know about my experiences: www.linkedin.com/in/gulshan-gongale-91936922b
 
