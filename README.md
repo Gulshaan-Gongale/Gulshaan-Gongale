@@ -13,4 +13,5 @@ Tools
 - Database: MySQL
 - Python: NumPy, Pandas, Matplotlib, Seaborn
 - Business Intelligence: Tableau, Power BI
+- Machine Learning - NLTK, SciPy, TensorFlow, Keras, scikit-Learn, XGBoost
 
